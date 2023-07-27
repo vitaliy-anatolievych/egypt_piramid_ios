@@ -33,7 +33,7 @@ class _LoadPageState extends State<LoadPage> {
     super.initState();
 
     initComponents();
-    startLoading();
+    // startLoading();
     Connectivity().onConnectivityChanged.listen((ConnectivityResult result) {
       if (result != ConnectivityResult.none) {
         if (isInit) {
