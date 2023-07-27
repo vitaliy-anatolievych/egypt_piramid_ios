@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>341122877719-r64a80b4iojrse0ru9pl5umgicmp7g2r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.341122877719-r64a80b4iojrse0ru9pl5umgicmp7g2r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDEuvDssgZLPF09PjfJj7nbhFBrt0fGIeA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>341122877719</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.robust.jagger</string>
+	<key>PROJECT_ID</key>
+	<string>robustjagger</string>
+	<key>STORAGE_BUCKET</key>
+	<string>robustjagger.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:341122877719:ios:4c8a1c36d7d78ee10c4f52</string>
+	<key>DATABASE_URL</key>
+	<string>https://robustjagger-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
